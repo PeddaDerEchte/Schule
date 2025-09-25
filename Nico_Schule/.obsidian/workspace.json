@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "87fcf510ea105af3",
+    "type": "split",
+    "children": [
+      {
+        "id": "964b6a4221d3785b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c9ad603c8608953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PuG/13.1 Aufzeichnungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13.1 Aufzeichnungen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "701deaa970e41b43",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae509c4d86d9de3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c4d0d8a8322588",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c3330a4647c10155",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "25b71f530f52ad48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2fe392b083b8a90",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c42e678eae9e490",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "839f02fd64098d65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PuG/13.1 Aufzeichnungen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 13.1 Aufzeichnungen"
+            }
+          },
+          {
+            "id": "9f894ba8956e9b77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PuG/13.1 Aufzeichnungen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 13.1 Aufzeichnungen"
+            }
+          },
+          {
+            "id": "3b25a6357c93e5ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dca95f355546736a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PuG/13.1 Aufzeichnungen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 13.1 Aufzeichnungen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7c9ad603c8608953",
+  "lastOpenFiles": [
+    "PuG",
+    "Welcome.md",
+    "PuG/13.1 Aufzeichnungen.md"
+  ]
+}
